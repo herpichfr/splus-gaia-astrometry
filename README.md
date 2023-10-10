@@ -1,6 +1,8 @@
 # splus-gaia-astrometry
 
-This Python script calculates the differences between the astrometry (position measurements) from the S-PLUS photometric catalogue and Gaia DR2 or DR3 catalog. The S-PLUS catalogue must be provided, while Gaia is gotten via querying. The code then performs a cross-match between the sources to compare their positions. The results are presented in a figure that shows the difference between the astrometries.
+This repository has been archived in favour of a more up-to-date fork maintained by the S-PLUS collaboration technical team. Please refer to the [S-PLUS official repository](https://github.com/splus-collab/splus-gaia-astrometry) for the most recent changes.
+
+This Python script calculates the differences between the astrometry (position measurements) from the S-PLUS photometric catalogue and Gaia DR2 or DR3 catalogue. The S-PLUS catalogue must be provided, while Gaia is gotten via querying. The code then performs a cross-match between the sources to compare their positions. The results are presented in a figure that shows the difference between the astrometries.
 
 ## Requirements
 
